@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Raja Suhash Kesari | Data Engineer Portfolio</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #0f172a;
+      color: #f1f5f9;
+    }
+    header {
+      background: #1e293b;
+      padding: 1rem 2rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    header h1 {
+      font-size: 1.5rem;
+    }
+    nav a {
+      margin-left: 1.5rem;
+      text-decoration: none;
+      color: #38bdf8;
+    }
+    .hero {
+      padding: 4rem 2rem;
+      text-align: center;
+    }
+    .hero h2 {
+      font-size: 2rem;
+      margin-bottom: 0.5rem;
+    }
+    .hero p {
+      font-size: 1.1rem;
+      color: #cbd5e1;
+    }
+    .section {
+      padding: 3rem 2rem;
+    }
+    .section h3 {
+      font-size: 1.75rem;
+      border-left: 4px solid #38bdf8;
+      padding-left: 1rem;
+      margin-bottom: 1rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Raja Suhash Kesari</h1>
+    <nav>
+      <a href="#about">About</a>
+      <a href="#skills">Skills</a>
+      <a href="#projects">Projects</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h2>Hi, I'm Suhash — Azure Data Engineer</h2>
+    <p>Transforming data into insights with ADF, Databricks, Snowflake, PySpark, and more.</p>
+  </section>
+
+  <section class="section" id="about">
+    <h3>About Me</h3>
+    <p>I’m a passionate Data Engineer with hands-on experience in Azure Data Factory, Databricks, Snowflake, and Microsoft Fabric. I’ve worked on real-time and batch data processing, Medallion Architecture, Delta Live Tables, and enterprise-grade data pipelines. My strength lies in solving business problems using clean, scalable data solutions.</p>
+  </section>
+</body>
+</html>
