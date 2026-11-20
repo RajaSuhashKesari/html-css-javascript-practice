@@ -4,17 +4,19 @@ A collection of beginner-friendly web development exercises built while learning
 
 The projects are small and independent, making it easy to open each page and understand one concept at a time.
 
-## 📂 Projects
+## 🌐 Live Projects
 
-| Project | File | What it demonstrates |
-|---|---|---|
-| Calculator | [calculator.html](./calculator.html) · [calculator.css](./calculator.css) | A basic calculator interface with JavaScript functions for addition, subtraction, multiplication, division, and clearing the display |
-| Registration Form | [form.html](./form.html) | Form elements such as text, email, password, telephone inputs, a gender dropdown, and a submit button; includes CSS styling and a hover effect |
-| HTML Lists | [lists.html](./lists.html) | Ordered and nested lists using numbered and Roman-numeral list styles, demonstrated with an IPL-style contents structure |
-| Image Map | [mage.html](./mage.html) | Images with clickable mapped regions that link to information about selected cricket players and a team |
-| IPL Teams Table | [table.html](./table.html) | HTML tables using rows, headers, cells, borders, background colours, and lists inside table cells |
-| Portfolio Page (practice version) | [portfolio.html](./portfolio.html) · [style.css](./style.css) | A personal portfolio layout with Home, About, Portfolio, Skills, and Contact sections, plus basic navigation and progress indicators |
-| Portfolio Page (updated layout) | [Portfolio.html](./Raja%20Suhash%20Kesari/Portfolio.html) | A second portfolio-page exercise featuring a header, navigation links, hero section, About section, and dark-themed CSS styling |
+Click a project name to open the working webpage. Use the source link if you want to view its HTML or CSS code.
+
+| Project | Live Demo | Source Code | What it demonstrates |
+|---|---|---|---|
+| Calculator | [Open Calculator](https://rajasuhashkesari.github.io/htmlproject1/calculator.html) | [HTML](./calculator.html) · [CSS](./calculator.css) | A basic calculator interface with JavaScript functions for arithmetic operations and clearing the display |
+| Registration Form | [Open Registration Form](https://rajasuhashkesari.github.io/htmlproject1/form.html) | [HTML](./form.html) | Text, email, password, telephone inputs, a gender dropdown, submit button, and CSS styling |
+| HTML Lists | [Open HTML Lists](https://rajasuhashkesari.github.io/htmlproject1/lists.html) | [HTML](./lists.html) | Ordered and nested lists using numbered and Roman-numeral list styles |
+| Image Map | [Open Image Map](https://rajasuhashkesari.github.io/htmlproject1/mage.html) | [HTML](./mage.html) | Images with clickable mapped regions linking to information about selected cricket players and a team |
+| IPL Teams Table | [Open IPL Teams Table](https://rajasuhashkesari.github.io/htmlproject1/table.html) | [HTML](./table.html) | HTML tables using rows, headers, cells, borders, background colours, and lists inside table cells |
+| Portfolio Page (practice version) | [Open Portfolio](https://rajasuhashkesari.github.io/htmlproject1/portfolio.html) | [HTML](./portfolio.html) · [CSS](./style.css) | A personal portfolio layout with Home, About, Portfolio, Skills, and Contact sections |
+| Portfolio Page (updated layout) | [Open Updated Portfolio](https://rajasuhashkesari.github.io/htmlproject1/Raja%20Suhash%20Kesari/Portfolio.html) | [HTML](./Raja%20Suhash%20Kesari/Portfolio.html) | A second portfolio-page exercise featuring a header, navigation links, hero section, About section, and dark-themed styling |
 
 ## 🧠 Concepts Practised
 
@@ -43,7 +45,7 @@ The projects are small and independent, making it easy to open each page and und
 - Reading and updating HTML elements through the DOM
 - Basic arithmetic operations using a calculator
 
-## 🚀 How to Run
+## 🚀 How to Run Locally
 
 No installation or build tools are required.
 
@@ -53,14 +55,14 @@ No installation or build tools are required.
    ```
 2. Open the downloaded project folder.
 3. Double-click any `.html` file, or open it in your preferred browser.
-4. For the calculator and portfolio exercises, keep the related CSS and image files in their original locations so the pages can load their assets.
+4. Keep related CSS and image files in their original locations so the pages can load their assets.
 
 ## 🛠️ Technologies
 
 - **HTML5** — page structure and content
 - **CSS3** — styling and layout
 - **JavaScript** — basic calculator functionality
-- **Git & GitHub** — version control and project hosting
+- **Git & GitHub Pages** — version control and website hosting
 
 ## 🎯 Purpose
 
@@ -68,6 +70,8 @@ These exercises represent my practical learning journey in front-end web develop
 
 ## 📌 Notes
 
+- The Live Demo links open the rendered webpages hosted with GitHub Pages.
+- The Source Code links open the corresponding files in the GitHub repository.
 - Each HTML file is a separate practice exercise.
 - Some pages use intentionally simple layouts as part of the learning process.
 - The two portfolio files are separate iterations and are kept as individual exercises.
