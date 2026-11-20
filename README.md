@@ -10,13 +10,13 @@ Click a project name to open the working webpage. Use the source link if you wan
 
 | Project | Live Demo | Source Code | What it demonstrates |
 |---|---|---|---|
-| Calculator | [Open Calculator](https://rajasuhashkesari.github.io/htmlproject1/calculator.html) | [HTML](./calculator.html) · [CSS](./calculator.css) | A basic calculator interface with JavaScript functions for arithmetic operations and clearing the display |
-| Registration Form | [Open Registration Form](https://rajasuhashkesari.github.io/htmlproject1/form.html) | [HTML](./form.html) | Text, email, password, telephone inputs, a gender dropdown, submit button, and CSS styling |
-| HTML Lists | [Open HTML Lists](https://rajasuhashkesari.github.io/htmlproject1/lists.html) | [HTML](./lists.html) | Ordered and nested lists using numbered and Roman-numeral list styles |
-| Image Map | [Open Image Map](https://rajasuhashkesari.github.io/htmlproject1/mage.html) | [HTML](./mage.html) | Images with clickable mapped regions linking to information about selected cricket players and a team |
-| IPL Teams Table | [Open IPL Teams Table](https://rajasuhashkesari.github.io/htmlproject1/table.html) | [HTML](./table.html) | HTML tables using rows, headers, cells, borders, background colours, and lists inside table cells |
-| Portfolio Page (practice version) | [Open Portfolio](https://rajasuhashkesari.github.io/htmlproject1/portfolio.html) | [HTML](./portfolio.html) · [CSS](./style.css) | A personal portfolio layout with Home, About, Portfolio, Skills, and Contact sections |
-| Portfolio Page (updated layout) | [Open Updated Portfolio](https://rajasuhashkesari.github.io/htmlproject1/Raja%20Suhash%20Kesari/Portfolio.html) | [HTML](./Raja%20Suhash%20Kesari/Portfolio.html) | A second portfolio-page exercise featuring a header, navigation links, hero section, About section, and dark-themed styling |
+| Calculator | [Open Calculator](https://rajasuhashkesari.github.io/html-css-javascript-practice/calculator.html) | [HTML](./calculator.html) · [CSS](./calculator.css) | A basic calculator interface with JavaScript functions for arithmetic operations and clearing the display |
+| Registration Form | [Open Registration Form](https://rajasuhashkesari.github.io/html-css-javascript-practice/form.html) | [HTML](./form.html) | Text, email, password, telephone inputs, a gender dropdown, submit button, and CSS styling |
+| HTML Lists | [Open HTML Lists](https://rajasuhashkesari.github.io/html-css-javascript-practice/lists.html) | [HTML](./lists.html) | Ordered and nested lists using numbered and Roman-numeral list styles |
+| Image Map | [Open Image Map](https://rajasuhashkesari.github.io/html-css-javascript-practice/mage.html) | [HTML](./mage.html) | Images with clickable mapped regions linking to information about selected cricket players and a team |
+| IPL Teams Table | [Open IPL Teams Table](https://rajasuhashkesari.github.io/html-css-javascript-practice/table.html) | [HTML](./table.html) | HTML tables using rows, headers, cells, borders, background colours, and lists inside table cells |
+| Portfolio Page (practice version) | [Open Portfolio](https://rajasuhashkesari.github.io/html-css-javascript-practice/portfolio.html) | [HTML](./portfolio.html) · [CSS](./style.css) | A personal portfolio layout with Home, About, Portfolio, Skills, and Contact sections |
+| Portfolio Page (updated layout) | [Open Updated Portfolio](https://rajasuhashkesari.github.io/html-css-javascript-practice/Raja%20Suhash%20Kesari/Portfolio.html) | [HTML](./Raja%20Suhash%20Kesari/Portfolio.html) | A second portfolio-page exercise featuring a header, navigation links, hero section, About section, and dark-themed styling |
 
 ## 🧠 Concepts Practised
 
@@ -51,7 +51,7 @@ No installation or build tools are required.
 
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/RajaSuhashKesari/htmlproject1.git
+   git clone https://github.com/RajaSuhashKesari/html-css-javascript-practice.git
    ```
 2. Open the downloaded project folder.
 3. Double-click any `.html` file, or open it in your preferred browser.
